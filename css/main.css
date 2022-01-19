@@ -3,7 +3,6 @@
 main {
     width:800px;
     float:right;
-    position:relative;
 }
 
 
@@ -11,10 +10,10 @@ main list {
     width:770px;
     height:600px;
     float:right;
+    padding:50px 0 0 0;
 }
 
 #list {
-    position:absolute;
     top:50px;
     left:20px;
 }

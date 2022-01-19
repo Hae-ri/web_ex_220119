@@ -30,7 +30,7 @@ a:link {
 }
 
 a:hover {
-    text-decoration:underline;
+    text-decoration:none;
     color:#8C8C8C;
 }
 
