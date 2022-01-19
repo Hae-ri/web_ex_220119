@@ -1,0 +1,11 @@
+/* 소개페이지 introduce CSS */
+
+main {
+    width:800px;
+    height:600px;
+    float:right;
+}
+
+#myself {
+    margin-top:30px;
+}
