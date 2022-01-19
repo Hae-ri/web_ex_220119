@@ -1,0 +1,51 @@
+/* 전체 적용 */
+
+* {
+    margin:0 auto;
+    padding:0;
+}
+
+#wrap {
+    width:970px;
+    margin:0 auto;
+    position:relative;
+}
+
+a:link {
+    text-decoration:none;
+    color:#8C8C8C;
+}
+
+a:hover {
+    text-decoration:underline;
+    color:#8C8C8C;
+}
+
+a:visited {
+    text-decoration:none;
+    color:#8C8C8C;
+}
+
+h1 {
+    padding-top:20px;
+    font-family:"맑은 고딕", "돋움";
+    color:#8C8C8C;
+    text-align:center;
+}
+
+#cafe1 {
+    position:absolute;
+    left:300px;
+}
+
+#notice {
+    position:absolute;
+    top:750px;
+    left:300px;
+    font-family:"맑은 고딕", "돋움";
+    color:#8C8C8C;
+}
+
+ul {
+    list-style-type:none;
+}

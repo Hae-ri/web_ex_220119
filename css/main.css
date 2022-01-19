@@ -1,0 +1,21 @@
+/* 메인컨텐츠 main CSS */
+
+main {
+    width:800px;
+    float:right;
+    position:relative;
+}
+
+
+main list {
+    width:770px;
+    height:600px;
+    float:right;
+}
+
+#list {
+    position:absolute;
+    top:50px;
+    left:20px;
+}
+
