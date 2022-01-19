@@ -16,7 +16,8 @@ a:visited {
 }
 
 #total {
-    width:970px;
+    width:100%;
+    height:700px;
 }
 
 
@@ -49,4 +50,3 @@ main .subject {
     font-size:15px;
     font-weight:bold;
 }
-
