@@ -1,9 +1,9 @@
 /* 헤더 header CSS */
 
 h1 {
-    padding-top:20px;
-    padding-bottom:20px;
+    padding-top:40px;
+    padding-bottom:40px;
     font-family:"맑은 고딕", "돋움";
-    color:##8C8C8C;
+    color:#000000;
     text-align:center;
 }
